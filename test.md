@@ -2,7 +2,7 @@
 marp: true
 theme: default
 paginate: true
-title: Microsoft 365: Word, Excel, PowerPointの連携
+title: "Microsoft 365: Word, Excel, PowerPointの連携"
 ---
 
 # Microsoft 365
