@@ -6,7 +6,7 @@ header: README
 paginate: true
 ---
 
-# [presentation-template](https://github.com/plageoj/presentation-template)
+# [Presentation-template](https://github.com/plageoj/presentation-template)
 
 by [@plageoj](https://github.com/plageoj)
 
