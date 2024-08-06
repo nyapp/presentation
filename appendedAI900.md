@@ -9,6 +9,8 @@ paginate: true
 ---
 # Azure AI Document Intelligence
 
+<!-- footer: 参考文献：[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-prepare-for-the-exam) -->
+
 ---
 <!-- header: Azure AI Document Intelligence -->
 # Azure AI Document Intelligence の沿革
@@ -209,6 +211,8 @@ Apache Luceneは、全文検索やテキスト検索を行うためのオープ�
 - **SDK**: プログラミング言語を使って開発しながらAzureのサービスを統合・操作したいとき。
 
 これらのツールを使い分けることで、Azureのサービスを自分のニーズに合った方法で利用できます。 -->
+---
+
 
 
 
