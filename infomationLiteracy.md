@@ -689,6 +689,10 @@ LCDの一種で、広い視野角と正確な色再現性が特徴。最新の�
 ![bg right 100%](https://crystage.com/wp-content/uploads/2022/06/DisplayResolution.png)
 
 ---
+![bg 80%](https://asset.watch.impress.co.jp/img/gmw/docs/1491/448/1_l.jpg)
+
+---
+
 ## DPI/PPIとの関係
 
 ### DPI（Dots Per Inch）:
@@ -699,3 +703,47 @@ LCDの一種で、広い視野角と正確な色再現性が特徴。最新の�
 - 1インチに含まれるピクセルの数。
 - PPIが高いほど: 同じ解像度でもより緻密な表示が可能。
 ![bg right 90%](https://portraitsrefined.com/wp-content/uploads/2021/10/ppi-dpi-printer-laptop.jpg)
+
+---
+# ディスプレイに表示される画像
+
+---
+# ビットマップ画像とベクトル画像
+ビットマップ画像は、ピクセルで構成されるため、写真など細かな色の変化を表現するのに適していますが、拡大すると画質が低下します。ベクトル画像は、数式で描かれるため、解像度に依存せず、どんなサイズでも鮮明に保つことができますが、複雑な色のグラデーションや写真表現には向きません。
+![bg right 90%](https://thinkit.co.jp/sites/default/files/articles/352901.png)
+
+---
+![bg 80%](https://blog.templatetoaster.com/wp-content/uploads/2019/10/Illustrator-vs-Photoshop-Facebook.png)
+
+---
+## ビットマップ画像（Raster Graphics）
+写真や複雑なグラデーションを必要とする画像、ウェブコンテンツやデジタル写真などでよく使用されます。
+### ファイル形式: 
+JPEG、PNG、GIF、BMPなど
+
+
+## ベクトル画像（Vector Graphics）
+ロゴ、アイコン、図形、フォント、インフォグラフィック、CAD設計など、拡大縮小や高い精度が求められるデザインに使用されます。
+### ファイル形式:
+SVG、EPS、PDF、AI（Adobe Illustrator）など
+
+---
+# ディザ処理
+
+ディザ処理では、隣り合う異なる色のピクセルを巧妙に配置することで、人間の目に中間色が存在するかのような錯覚を生じさせます。たとえば、ディスプレイやプリンタが白と黒の2色しか表現できない場合でも、白と黒のピクセルを特定のパターンで混ぜることで、灰色が表現されたように見えます。これは、網点（ハーフトーン）に似た原理で、同じ色を目立たないように配置することで、あたかも新しい色が存在するかのように見える効果を得ます。
+![bg right 90%](https://blog.digimerce.jp/2020/05/18/9688/img/pic_200511_top.png)
+
+---
+![bg 40%](https://www.marco-mosaici.jp/wp-content/themes/marcomosaici/images/about04.jpg)
+
+---
+# RBGとCMYK
+
+RGBはデジタルスクリーン上で光の三原色（赤、緑、青）を組み合わせて色を作る方式で、CMYKは印刷物で使用されるインクの四原色（シアン、マゼンタ、イエロー、キー［黒］）を組み合わせて色を再現する方式です。
+![bg right 90%](https://www.signmall.jp/images/blog/uploads/2015/02/figure_rgb_cmyk_02.jpg)
+
+---
+# 印刷時においての網点
+
+印刷機は通常、各色ごとに一定の濃度でインクを塗布するため、完全なグラデーションを再現するのが難しいです。網点技法では、インクを小さな点状に分割して配置し、その点の大きさや間隔を調整することで、濃い部分や薄い部分を表現します。濃淡は、点が密集しているほど濃く見え、点が離れているほど薄く見えるように視覚的に処理されます。
+![bg right 90%](https://kingprinters.com/images/user_guide/data_guide/base4_1.gif?_t=1725003736)
