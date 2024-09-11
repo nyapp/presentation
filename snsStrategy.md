@@ -11,7 +11,7 @@ paginate: true
 
 ---
 <!-- header: PDCAサイクル -->
-![](/img/pdca.png)
+![bg 90% ](https://kaizen-base.com/wp/wp-content/uploads/2021/10/PDCA.jpg)
 
 ---
 # 計画(Plan)
