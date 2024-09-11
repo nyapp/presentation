@@ -15,7 +15,7 @@ paginate: true
 
 ---
 # 計画(Plan)
-
+![bg 90%](https://kaizen-base.com/wp/wp-content/uploads/2021/10/PDCA.jpg)
 - [SNS戦略 穴埋めシート](https://docs.google.com/document/d/1R--NtdMcr8klPMRJVpLDaqcHCQ1e6S2ypGhqo7v-COc/edit?usp=sharing)
     - ターゲット層の定義
     - コンテンツ戦略と構築
