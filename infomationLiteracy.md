@@ -396,9 +396,57 @@ Microsoftが無料で提供しているのVisual Code Studioは人気のソフ�
 # 課題：　https://sushida.net でタッチタイピングを練習する
 
 ---
+<!-- header: メール -->
+# メール
+
+---
+# eメールアドレス
+hogehoge@ex.ac.jp このような形になります。
+> hogehoge がユーザー名
+ex.ac.jp がドメイン名と呼ばれる部分です
+![bg right 50%](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7JG32wRnwl7353mk594e6kwYZ6kbtd2LFmT34Kofre6Yaoztx8rExfFEJhcBJ0AuQv8gj1BP1Tdhyc8UECWEc5LBo2YbD1IcSdMz6B-jVHekOeJJxjQf-hUDoF4pEoXa5wnCazVRHFO_l/s400/computer_email.png)
+
+<!-- 個人情報がバレるようなユーザー名はやめましょう -->
+
+---
+# To, Cc, Bcc
+## To は宛先です。
+複数を並べて記入できます。
+## Cc は宛先です。
+carbon copy の略で、メールの写しを送りたい人のアドレスを記入します。
+## Bcc は宛先です。
+blind carbon copy の略です。意味合いはCcと同じですが、受信者にアドレスを隠すことができます。
+
+---
+![bg 50%](https://mailwise.cybozu.co.jp/column/109-02.png)
+
+---
+# Word
+
+---
+# 文書ファイルの種類
+1. Microsoft Word
+
+	•	特徴: 世界的に最も普及している文書作成ソフト。多機能で、文章のフォーマット、レイアウト、画像の挿入、表の作成など幅広い機能を持つ。
+	•	用途: ビジネス文書、レポート、論文、契約書など、ほとんどの文書作成に適している。
+	•	利点: 他のユーザーとの互換性が高い。クラウド連携があり、複数デバイスでの作業が可能。
+
+2. Google ドキュメント
+
+	•	特徴: ブラウザベースで動作する無料の文書作成ソフト。リアルタイムでの共同編集が可能。
+	•	用途: チームでの共同作業やクラウド上での作業に便利。
+	•	利点: 無料で使用でき、インターネット接続さえあればどのデバイスでもアクセス可能。
+
+3. Apple Pages
+
+	•	特徴: Appleが提供する文書作成ソフトで、MacやiPadでスムーズに動作。シンプルで直感的なインターフェースを持つ。
+	•	用途: 個人の文書作成やデザイン要素が強いドキュメント作成に向いている。
+	•	利点: 美しいテンプレートが用意されており、デザインにこだわった文書作成に適している。
+
+---
 <!-- header: インターネット -->
 # インターネット
- 
+
 ---
 ![bg 40%](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwIdDx0MQou6j8xm5BBizMpJM4My9Iquo1waYGWdMpgkhQWRwtVSDDRSpFw-8nN6jCixb8D4IIJ4T3E0Gu-UH7oa5RCaZmSHEcei0qxLZDgjFNBzApc8wsoLN0XulLpgeddrHjmqG-qwI/s400/internet_earth.png)
 <!-- インターネットは、世界中のコンピュータやデバイスを接続するグローバルなネットワークであり、情報の共有やコミュニケーションの手段として不可欠です。最近のトレンドとして、AIや機械学習の進展によって、パーソナライズされたサービスやコンテンツが増加しています。また、IoT（モノのインターネット）が普及し、家庭や産業におけるデバイスがインターネット経由で相互に通信するようになりました。さらに、5Gの導入により、高速で低遅延な接続が可能になり、より多様なインターネットサービスが展開されています。 -->
