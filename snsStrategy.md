@@ -1,5 +1,5 @@
 ---
-title: SNS戦略
+title: snsStrategy
 marp: true
 header: 
 author: YUKI TAMURA
