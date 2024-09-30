@@ -4,8 +4,7 @@ marp: true
 header: 
 author: YUKI TAMURA
 theme: class
-footer: 
-paginate: true
+footer: intro
 ---
 # ITを学習する意味ある？
 
