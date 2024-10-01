@@ -1,13 +1,13 @@
 ---
-title: Infomation Literacy
+title: information Literacy
 marp: true
 header: 
 author: YUKI TAMURA
 theme: class
-footer: Infomation Literacy
+footer: information Literacy
 paginate: true
 ---
-# Infomation Literacy（ゼロから始める情報リテラシー）
+# Infomation Literacy
 
 ---
 <!-- header: はじめに -->
